@@ -1,0 +1,20 @@
+{
+  "name": "apcd-claims-warehouse",
+  "version": "1.0.0",
+  "description": "Integrated, state-level APCD warehouse and platform with synthetic dataset for prototyping, shaped to the Flexpa schema. Allows users to choose data source: (1) Flexpa (paid), (2) APCD integrated warehouse, (3) Self-provided claims",
+  "homepage": "https://github.com/maheshwvr/apcd-claims-warehouse#readme",
+  "bugs": {
+    "url": "https://github.com/maheshwvr/apcd-claims-warehouse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshwvr/apcd-claims-warehouse.git"
+  },
+  "license": "ISC",
+  "author": "Mahesh Maniam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
